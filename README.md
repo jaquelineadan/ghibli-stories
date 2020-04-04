@@ -1,6 +1,6 @@
 # ghibli stories
 
-Esse site tem como proposta inicial um lugar para descobrir sobre os filmes do Studio Ghibli.
+Esse site tem como proposta inicial ser um lugar para descobrir sobre os filmes do Studio Ghibli.
 Com descrições e outras informações de cada filme do estúdio, nele também é possível ser direcionado para locais que os filmes estejam disponíveis para visualização.
 
 
