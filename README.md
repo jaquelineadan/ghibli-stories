@@ -14,4 +14,3 @@ O projeto foi construído com HTML5, CSS3 e **futuramente** JavaScript.
 - [x] Página de visualização dos filmes individualmente.
 - [x] Componentes conversando com a segunda página com JavaScript.
 - [x] Ajustes no CSS.
-- [x] README em inglês.
